@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../xampp/htdocs/final project"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../database_connection_php-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Complete-Responsive-Hospital-Website-Design-Using-HTML-CSS-JavaScript-main"
+	}
+}
